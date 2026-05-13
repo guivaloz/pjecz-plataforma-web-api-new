@@ -1,8 +1,0 @@
-
-### Materias
-GET {{baseUrl}}/materias
-X-Api-Key: {{apiKey}}
-
-### Materia Familiar
-GET {{baseUrl}}/materias/fam
-X-Api-Key: {{apiKey}}
